@@ -1,0 +1,3 @@
+:HL["/car-rental/_next/static/chunks/0hgcs82pj00pg.css","style"]
+:HL["/car-rental/_next/static/chunks/1biv3tzg7klnj.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DwzXlmiNuI905L_albGMz"}
